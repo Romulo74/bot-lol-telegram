@@ -22,5 +22,32 @@ Este projeto é um bot interativo do **League of Legends (LoL)** para Telegram, 
 
 ---
 
+## Instale as dependências:
 
+bash
+Copiar
+Editar
+pip install python-telegram-bot
+Configure seu token do bot no arquivo config.py:
+
+python
+Copiar
+Editar
+BOT_TOKEN = "SEU_TOKEN_AQUI"
+Execute o bot:
+
+bash
+Copiar
+Editar
+python bot.py
+
+## 🧠 Créditos e Temas
+As perguntas do quiz incluem temas do competitivo brasileiro e internacional, campeões e curiosidades do LoL.
+
+Inspirado pela paixão de fãs da FURIA e da comunidade de e-sports.
+
+## 📜 Licença
+Este projeto está licenciado sob a licença MIT.
+
+Desenvolvido por Romulo Augusto Vieira com apoio do ChatGPT 🤖
 
