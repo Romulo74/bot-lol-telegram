@@ -22,11 +22,5 @@ Este projeto é um bot interativo do **League of Legends (LoL)** para Telegram, 
 
 ---
 
-## 📦 Instalação
 
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/Romulo74/bot-lol-telegram.git
-cd bot-lol-telegram
 
